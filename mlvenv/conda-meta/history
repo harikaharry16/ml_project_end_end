@@ -21,3 +21,60 @@
 +defaults/linux-64::xz-5.6.4-h5eee18b_1
 +defaults/linux-64::zlib-1.2.13-h5eee18b_1
 # update specs: ['python==3.8']
+==> 2025-05-28 16:45:03 <==
+# cmd: /home/interakt/miniconda3/bin/conda install -c conda-forge --prefix /home/interakt/ml_project/mlvenv ipykernel -y
+# conda version: 25.1.1
+-defaults/linux-64::ca-certificates-2025.2.25-h06a4308_0
++<develop>/pypi::ml-project-0.0.1-dev_0
++conda-forge/linux-64::libsodium-1.0.18-h36c2ea0_1
++conda-forge/linux-64::psutil-5.9.1-py38h0a891b7_0
++conda-forge/linux-64::python_abi-3.8-2_cp38
++conda-forge/linux-64::tornado-6.1-py38h0a891b7_3
++conda-forge/noarch::asttokens-3.0.0-pyhd8ed1ab_0
++conda-forge/noarch::backcall-0.2.0-pyh9f0ad1d_0
++conda-forge/noarch::ca-certificates-2025.4.26-hbd8a1cb_0
++conda-forge/noarch::comm-0.2.2-pyhd8ed1ab_0
++conda-forge/noarch::decorator-5.1.1-pyhd8ed1ab_0
++conda-forge/noarch::entrypoints-0.4-pyhd8ed1ab_0
++conda-forge/noarch::executing-2.1.0-pyhd8ed1ab_0
++conda-forge/noarch::ipykernel-6.29.5-pyh3099207_0
++conda-forge/noarch::ipython-8.12.2-pyh41d4057_0
++conda-forge/noarch::jedi-0.19.1-pyhd8ed1ab_0
++conda-forge/noarch::jupyter_client-7.3.4-pyhd8ed1ab_0
++conda-forge/noarch::jupyter_core-5.8.1-pyh31011fe_0
++conda-forge/noarch::matplotlib-inline-0.1.7-pyhd8ed1ab_0
++conda-forge/noarch::nest-asyncio-1.6.0-pyhd8ed1ab_0
++conda-forge/noarch::parso-0.8.4-pyhd8ed1ab_0
++conda-forge/noarch::pexpect-4.9.0-pyhd8ed1ab_0
++conda-forge/noarch::pickleshare-0.7.5-py_1003
++conda-forge/noarch::platformdirs-4.3.6-pyhd8ed1ab_0
++conda-forge/noarch::prompt-toolkit-3.0.48-pyha770c72_0
++conda-forge/noarch::prompt_toolkit-3.0.48-hd8ed1ab_1
++conda-forge/noarch::ptyprocess-0.7.0-pyhd3deb0d_0
++conda-forge/noarch::pure_eval-0.2.3-pyhd8ed1ab_0
++conda-forge/noarch::pygments-2.18.0-pyhd8ed1ab_0
++conda-forge/noarch::stack_data-0.6.2-pyhd8ed1ab_0
++conda-forge/noarch::traitlets-5.14.3-pyhd8ed1ab_0
++conda-forge/noarch::typing_extensions-4.12.2-pyha770c72_0
++conda-forge/noarch::wcwidth-0.2.13-pyhd8ed1ab_0
++defaults/linux-64::debugpy-1.6.7-py38h6a678d5_0
++defaults/linux-64::pyzmq-25.1.2-py38h6a678d5_0
++defaults/linux-64::zeromq-4.3.5-h6a678d5_0
++pypi/pypi::contourpy-1.1.1-pypi_0
++pypi/pypi::cycler-0.12.1-pypi_0
++pypi/pypi::fonttools-4.57.0-pypi_0
++pypi/pypi::importlib-resources-6.4.5-pypi_0
++pypi/pypi::kiwisolver-1.4.7-pypi_0
++pypi/pypi::matplotlib-3.7.5-pypi_0
++pypi/pypi::numpy-1.24.4-pypi_0
++pypi/pypi::packaging-25.0-pypi_0
++pypi/pypi::pandas-2.0.3-pypi_0
++pypi/pypi::pillow-10.4.0-pypi_0
++pypi/pypi::pyparsing-3.1.4-pypi_0
++pypi/pypi::python-dateutil-2.9.0.post0-pypi_0
++pypi/pypi::pytz-2025.2-pypi_0
++pypi/pypi::seaborn-0.13.2-pypi_0
++pypi/pypi::six-1.17.0-pypi_0
++pypi/pypi::tzdata-2025.2-pypi_0
++pypi/pypi::zipp-3.20.2-pypi_0
+# update specs: ['ipykernel']
